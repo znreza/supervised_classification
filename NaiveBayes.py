@@ -1,3 +1,7 @@
+#Author: Zarreen Naowal Reza
+#Email: zarreen.naowal.reza@gmail.com
+
+
 import pandas as pd
 import numpy as np
 
